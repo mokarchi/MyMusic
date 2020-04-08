@@ -7,7 +7,7 @@ namespace MyMusic.Core.Models
     {
         public Artist()
         {
-            Musics = new Collection<Music>;
+            Musics = new Collection<Music>();
         }
 
         public int Id { get; set; }
